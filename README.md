@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusFabri&show_icons=true&hide=stars&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusFabri)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusFabri&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **matheusFabri/matheusFabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
